@@ -66,7 +66,7 @@ docker run -it --rm -p 8888:8888 -p 5000:5000 -v ${PWD}:/app --name ml-zoom-mid-
 | [02_eda_profiling.ipynb](eda/02_eda_profiling.ipynb)   | eda  | Descriptive statistics. Exploratory data analysis. Correlation matrix. Data transformation. Feature engineering.        |
 | [train_profile_report.html](https://htmlpreview.github.io/?https://github.com/anammari/wine-quality-prediction/blob/main/eda/train_profile_report.html)   | eda  | Initial exploratory data report.         |
 | [transformed_train_profile_report.html](https://htmlpreview.github.io/?https://github.com/anammari/wine-quality-prediction/blob/main/eda/transformed_train_profile_report.html)   | eda  | Exploratory data report after data transformation.         |
-| [03_feature_importance.ipynb](https://nbviewer.org/github/anammari/wine-quality-prediction/blob/main/eda/03_feature_importance.ipynb)   | eda  | Feature importance. Feature-target correlation.        |
+| [03_feature_importance.ipynb](https://nbviewer.org/github/anammari/wine-quality-prediction/blob/main/eda/03_feature_importance.ipynb)   | eda  | Feature importance. Feature contribution analysis.        |
 | `train.csv`, `validate.csv`, `test.csv`    | data  | Initial train, validation, and testing datasets.       |
 | `train_transformed.csv`, `validate_transformed.csv`, `test_transformed.csv`   | data  | Train, validation, and testing datasets after data transformation.      |
 | [04_model_training.ipynb](ml_train/04_model_training.ipynb)   | ml_train  | Data preparation. Model training. Hyperparameter tuning. Model evaluation. Model persistence.|
