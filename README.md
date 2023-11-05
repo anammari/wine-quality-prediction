@@ -12,15 +12,15 @@ The task is to predict the quality of the wine (the target attribute) based on i
 
 ## Technologies used
 
-- Cloud: AWS
-- Cloud deployment service: Amazon Lightsail Containers
-- EDA: Pandas profiling
-- Feature importance: Shapash
-- Model training & tuning: Scikit-Learn
-- Model deployment: REST API (Flask)
-- Containerization: Docker
-- Dependency management: Pipenv
-- Notebook server: JupyterLab 
+- **Cloud:** AWS
+- **Cloud deployment service:** Amazon Lightsail Containers
+- **EDA:** YData Profiling
+- **Feature importance:** Shapash
+- **Model training & tuning:** Scikit-Learn
+- **Model deployment:** REST API (Flask)
+- **Containerization:** Docker
+- **Dependency management:** Pipenv
+- **Notebook server:** JupyterLab 
 
 ## Dataset Description
 
